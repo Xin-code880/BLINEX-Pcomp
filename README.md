@@ -17,5 +17,5 @@ Key Arguments
 Code Structure
 main.py — Entry point for running experiments.
 data_composed.py — Data preparation and preprocessing.
-tran.py — Loss function and optimization.
+model.py — Loss function and optimization.
 predict.py — Evaluation and prediction.
